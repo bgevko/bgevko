@@ -1,25 +1,14 @@
+## 👋 Welcome to my digital workshop!
 
-Hi, I'm Bogdan, and this is my digital workshop!
+Here’s what I’m currently building:
 
-- 🔭 I’m currently working on
-  - A web-based desktop environment
-  - Nintendo Emulator in C++
+🖥️ [A web-based desktop environment](https://github.com/bgevko/bogdan-os)
 
-<!--
-**bgevko/bgevko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Welcome to my page
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 [Nintendo Emulator in C++](https://github.com/coopeaus/NES-Emulator)
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgevko&show_icons=true&theme=tokyonight" alt="bgevko :: Profile Stats" />
+<details>
+  <summary>Profile Stats</summary>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bgevko&show_icons=true&theme=ayu-mirage" alt="bgevko :: Profile Stats" />
 
+</details>
