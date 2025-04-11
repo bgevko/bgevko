@@ -1,0 +1,21 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Updates every hour
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Plugins
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 10
+          plugin_activity_days: 30
+          plugin_activity_filter: all

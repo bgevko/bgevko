@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+![Metrics](https://github.com/bgevko/bgevko/blob/master/metrics.plugin.activity.svg)
