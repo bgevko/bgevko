@@ -21,5 +21,5 @@ Welcome to my page
 -->
 
 ---
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bgevko&show_icons=true&theme=tokyonight" alt="bgevko :: Profile Stats" />
 
-![Metrics](https://github.com/bgevko/bgevko/blob/main/github-metrics.svg)
