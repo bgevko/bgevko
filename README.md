@@ -22,4 +22,4 @@ Welcome to my page
 
 ---
 
-![Metrics](https://github.com/bgevko/bgevko/github-metrics.svg)
+![Metrics](https://github.com/bgevko/bgevko/blob/main/github-metrics.svg)
