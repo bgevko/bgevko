@@ -1,10 +1,6 @@
 ## 👋 Welcome to my digital workshop!
 
-Here’s what I’m currently building:
-
-🖥️ [A web-based desktop environment](https://github.com/bgevko/bogdan-os)
-
-🎮 [Nintendo Emulator in C++](https://github.com/coopeaus/NES-Emulator)
+I built things both professionally and as a hobby!
 
 ---
 <details>
